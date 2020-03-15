@@ -1,45 +1,129 @@
 # homework-20
-React Portfolio
-Overview
-In this unit, we will work with complex state management techniques. We will use a combination of React Hooks and the Context API to create a state management flow similar to Redux.
+# React Portfolio
 
-Key Topics
-
-React Hooks
-The Context API
-Store
-Reducers
-Effects
-Redux design patterns
+Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
+If you are opting out of career services, this is still a required assignment. Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but is still critical on your journey as a developer.
+<img src="src/img/capture1.png">
+Requirements
 
 
-Comprehension Check
-You will be employer-ready if you can answer the following questions:
-
-What conditions must be met when creating React Hooks?
-At a high level, how does the Context API reduce "prop-drilling"?
-How does one manage state in a complex application?
+Updated portfolio featuring 6 total projects
 
 
-Learning Objectives
-You will be employer-competitive if you are able to:
-
-Utilize React's most common built-in Hooks: useState, useEffect, and useContext.
-Transform a React application that manages state with a class component into an application that uses functional components with React Hooks.
-Utilize a combination of Context Objects, Providers, and consumers via the useContext Hook to manage global state.
-Transform an app that manages state in Container components into one that follows a Redux pattern.
-Identify the appropriate time to make a React app use Redux or follow a similar design pattern.
-Implement a Redux-like store in a React app.
+Use React
 
 
-Homework: 🏬 Online Marketplace
-
-In this assignment, you will be creating a marketplace that allows users to view products from Best Buy. The user will be able to view details about the product, and if they decide, add the product to a shopping cart.
+A Header component that appears on multiple pages
 
 
-Helpful Links
+A single Project component that will be used multiple times on a single page
 
-Presentational vs. Container Components
-Context API Docs
-React Hooks Docs
-A Complete Guide to useEffect()
+
+Navigation with React Router, dynamic rendering, or another third part router
+
+
+A Footer component that appears on multiple pages
+
+
+Update GitHub profile with pinned repositories featuring those same projects
+
+
+
+Grading
+
+
+
+Requirement
+Weight
+
+
+
+
+Portoflio
+90%
+
+
+GitHub Profile
+10%
+
+
+
+
+Instructions
+
+
+Updated Portfolio
+
+Design
+
+
+React
+Updated LinkedIn Profile
+
+
+Updated Portfolio
+Your updated site should still have all of the content it previously had:
+
+
+Your name
+
+
+Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+
+
+A link to a PDF of your resume with updated projects
+
+
+A list of projects. For each project, make sure you have the following:
+
+
+Project title
+
+
+Link to the deployed version
+
+
+Link to the GitHub repository
+
+
+GIF or screenshot of the deployed application
+
+
+
+
+
+Design
+As with the previous portfolio homework, "good" design is subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
+
+
+Mobile-first design
+
+
+Choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site. You may we
+
+
+Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
+
+If you want to go above and beyond, try using animations and react component libraries. Note
+that this will not affect your grade, but it may impact how potentials employers gauge your knowledge.
+
+
+
+React
+Additionally, this new portfolio should be created using React.
+At a minimum, your portfolio should include the following:
+
+
+A Header component that appears on multiple pages
+
+
+A single Project component that will be used multiple times on a single page
+
+
+Navigation with React Router, dynamic rendering, or another third part router
+
+
+A Footer component that appears on multiple pages
