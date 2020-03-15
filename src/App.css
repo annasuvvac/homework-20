@@ -1,0 +1,36 @@
+
+.navApp {
+  background-color: rgb(192, 11, 101);
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  border-bottom: 7px rgb(247, 39, 184) ;
+}
+
+#name {
+  font-size: 25px;
+}
+
+.container {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(184, 174, 174);
+}
+
+
+
+.card-header {
+  border-top: 5px solid rgb(247, 39, 184);
+  border-left: 5px solid rgb(247, 39, 184);
+  border-right: 5px solid rgb(247, 39, 184);
+}
+
+.card-body {
+  border-left: 5px solid rgb(247, 39, 184);
+  border-bottom: 5px solid rgb(247, 39, 184);
+  border-right: 5px solid rgb(247, 39, 184);
+}
+
+.aboutApp, .portfolioApp, .contactApp, html {
+  background-color: rgb(184, 174, 174);
+}
