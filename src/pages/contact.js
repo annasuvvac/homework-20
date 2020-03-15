@@ -5,9 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const Contact = () => {
     return (
         <div className="contactApp">
-
-
-            <div className="container">
+<div className="container">
         <div className="card">
                     <div className="card-header">
                         <h3>Contact</h3>

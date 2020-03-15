@@ -12,8 +12,6 @@ const portfolio = () => {
                             Portfolio
                     </h3>
                     </div>
-                    
-
                     <div className="card-body">
                         <div className="row">
                             <div className="col-md-1">
