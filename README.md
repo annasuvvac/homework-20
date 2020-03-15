@@ -4,14 +4,11 @@
 Now that you've worked with React and have multiple projects to share, you'll be updating your portfolio and other materials to build toward being employer competitive. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
 If you are opting out of career services, this is still a required assignment. Part of being a web developer means being a part of a community. Having a place to share your projects is necessary if you're applying for jobs, but is still critical on your journey as a developer.
 <img src="src/img/capture1.png">
-Requirements
-
+# Requirements
 
 Updated portfolio featuring 6 total projects
 
-
 Use React
-
 
 A Header component that appears on multiple pages
 
@@ -29,7 +26,7 @@ Update GitHub profile with pinned repositories featuring those same projects
 
 
 
-Grading
+# Grading
 
 
 
@@ -57,7 +54,7 @@ Updated Portfolio
 Design
 
 
-React
+# React
 Updated LinkedIn Profile
 
 
@@ -90,9 +87,7 @@ GIF or screenshot of the deployed application
 
 
 
-
-
-Design
+# Design
 As with the previous portfolio homework, "good" design is subjective. Your site should look
 "polished." Here are a few guidelines on what that means:
 
@@ -112,7 +107,7 @@ that this will not affect your grade, but it may impact how potentials employers
 
 
 
-React
+# React
 Additionally, this new portfolio should be created using React.
 At a minimum, your portfolio should include the following:
 
