@@ -33,14 +33,11 @@ const mainPage = () => {
         
     <p>My next work is hopefully a full stack developer. I hope to gain enough knowledge to work in this sphere and gain even more experience.</p>
 <p>During my free time I like to take pictures and then edit them to give a professional look.</p>
-                                </div>
-                            </div>
-                           
-
-                        </blockquote>
-                    </div>
-
-                </div>
+   </div>
+    </div>
+       </blockquote>
+    </div>
+</div>
             </div>
 
         </div>
